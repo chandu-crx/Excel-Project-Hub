@@ -5,6 +5,9 @@
 
 ## Dashboard
 --> <a href="https://github.com/chandu-crx/Excel-Project-Hub/blob/main/Sales%20and%20Profit%20.png">Dash Board view</a>
+
+
+
 This professional Excel workbook delivers a complete retail sales analysis dataset (2021–2024) across three structured sheets. The Data sheet contains 8,300+ transaction-level records with columns: Order Date, Customer Name, State, Category, Sub-Category, Product Name, Sales, Quantity, Profit, YEAR. The DASHBOARD sheet highlights Total Sales: $1,928,887.86 as the core KPI. The PIVOT TABLE sheet includes pre-configured analytics:
 
 Sales by Sub-Category — Phones ($279K), Chairs ($277K), Storage ($190K)
